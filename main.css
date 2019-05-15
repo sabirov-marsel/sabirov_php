@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#registration
+width: 970px;
+border: 1px solid black;
+margin: auto;
+background: #red;
+
+
+
+
+
+
+
+#container {
+    width: 970px;
+    border: 1px solid black;
+    margin: auto;
+}
+    #head {
+        background: #ccc;
+        padding: ;
+
+    }
+    #content {
+       margin-top: 15px;
+        padding: 10px;
+        background: red;
+        overflow: hidden;
+
+    }
+    .leftBlock {
+        background: red;
+        padding: 15px;
+        width: 30%;
+        float: left;
+    }
+
+    .rightBlock {
+        background: red;
+        padding: 15px;
+        width: 30%;
+        float: right;
+
+        #footer {
+            margin-top: 15px;
+            background: #ccc;
+            padding: 15px;
+}
+}
